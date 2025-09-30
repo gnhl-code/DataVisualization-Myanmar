@@ -1,7 +1,3 @@
-Data Visualization
+## Data Visualization | Myanmar Population
 
-Myanmar Population
-
-
-Download ninyo ang duha ka data ha then create folder "data" para ma read ra diritso
-then extract 
+c: Abainza, Casino, Culanggo, Felisilda, Gier, Sorronda

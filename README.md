@@ -1,3 +1,3 @@
 ## Data Visualization | Myanmar Population
 
-c: Abainza, Casino, Culanggo, Felisilda, Gier, Sorronda
+c: Abainza, Casino, Culanggo, Felisilda
